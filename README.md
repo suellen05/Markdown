@@ -1,14 +1,14 @@
 # Markdown
-
-Suellen Cristina Sant'Ana
-Brasileira            34 Anos             Solteira                                                                
-Rua Maranhão 382 – Praia Azul    13.476-735 – Americana – SP  
-(19) 99479 0027   e-mail: suellenwmj@hotmail.com        - Veículo Próprio                                                          
+![Maikdonw](imagem/suellen.jpg)
+**Suellen Cristina Sant'Ana**
+Brasileira            34 Anos                                                                            
+Rua Maranhão  – Praia Azul    13.476-735 – Americana – SP  
+e-mail: suellenwmj@hotmail.com    - Veículo Próprio                                                          
 ________________________________________
-Objetivo
+*Objetivo*
 ▪	Oportunidade par atuar na área de Técnico de informática. 
 ________________________________________
-Formação Acadêmica
+*Formação Acadêmica*
            
 	Técnico de Informática – Senac Americana ( Cursando - Início Novembro/20 )
 
@@ -20,7 +20,7 @@ Formação Acadêmica
 	Técnicas de Assessoria – SOMA Serviço de Orientação de Menores de Americana 
 	Ensino Médio Completo
 ________________________________________
-Experiência Profissional
+*Experiência Profissional*
 
 Carmesin confecções de Roupas intimas (Grupo Primicia)
 ▪	Jan/2019  - Até o Momento
@@ -52,4 +52,11 @@ Informática - Sistemas
 - Microdata Sistemas 
 - Pró 2001
 - Sistema Audaces Encaixe Gráfico
+
+________________________________________
+**Redes Sociais**
+
+[Linkedin](https://www.linkedin.com/in/suellen-sant-ana-b148bbb3/)
+
+[Instagran](https://www.instagram.com/suellen.sant_ana/)
 
