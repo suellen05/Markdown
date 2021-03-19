@@ -1,12 +1,12 @@
-# Markdown
+# **Suellen Cristina Sant'Ana**
 ![Maikdonw](imagem/suellen.jpg)
 
 
 
 
 
-**Suellen Cristina Sant'Ana**
-Brasileira            34 Anos                                                                            
+
+Brasileira  34 Anos                                                                            
 Rua Maranhão  – Praia Azul    13.476-735 – Americana – SP  
 e-mail: suellenwmj@hotmail.com    - Veículo Próprio                                                          
 ________________________________________
@@ -15,15 +15,15 @@ ________________________________________
 ________________________________________
 *Formação Acadêmica*
            
-	Técnico de Informática – Senac Americana ( Cursando - Início Novembro/20 )
+▪	Técnico de Informática – Senac Americana ( Cursando - Início Novembro/20 )
 
-	Excel Corporativo do Básico ao Avançado 16 horas – Supernova Treinamentos 
-	Gestão de Estoques 24 horas – Senac Americana
-	Escola Técnica Estadual Polivalente de Americana – Técnico em Logística 
-	Curso PCP (Programador de Controle de Produção) – Senai Americana/SP
-	Redação Comercial e Técnicas Financeiras – JOB Company – Americana/SP
-	Técnicas de Assessoria – SOMA Serviço de Orientação de Menores de Americana 
-	Ensino Médio Completo
+▪	Excel Corporativo do Básico ao Avançado 16 horas – Supernova Treinamentos 
+▪	Gestão de Estoques 24 horas – Senac Americana
+▪	Escola Técnica Estadual Polivalente de Americana – Técnico em Logística 
+▪	Curso PCP (Programador de Controle de Produção) – Senai Americana/SP
+▪	Redação Comercial e Técnicas Financeiras – JOB Company – Americana/SP
+▪	Técnicas de Assessoria – SOMA Serviço de Orientação de Menores de Americana 
+▪	Ensino Médio Completo
 ________________________________________
 *Experiência Profissional*
 
@@ -61,7 +61,7 @@ Informática - Sistemas
 ________________________________________
 **Redes Sociais**
 
-[Linkedin](https://www.linkedin.com/in/suellen-sant-ana-b148bbb3/)
+▪ [Linkedin](https://www.linkedin.com/in/suellen-sant-ana-b148bbb3/)
 
-[Instagran](https://www.instagram.com/suellen.sant_ana/)
+▪ [Instagran](https://www.instagram.com/suellen.sant_ana/)
 
